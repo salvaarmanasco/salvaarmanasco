@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salvador Armanasco</h1>
 <h3 align="center">A Full-Stack developer from Santa Fe, Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently working on [Proyecto Inmobiliario](https://github.com/salvaarmanasco/Proyecto-Inmobiliario)
+- 💼 I'm working on [Individual proyect - Countries app](https://github.com/salvaarmanasco/PI-Countries-main)
+
+- 📊 and [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
 
 - 🌱 I’m currently learning *TypeScript && ChakraUI*
 
