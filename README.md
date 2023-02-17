@@ -5,7 +5,7 @@
 
 - 📊 and [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
 
-- 🌱 I’m currently learning *TypeScript && ChakraUI*
+- 🌱 I’m currently learning *TypeScript && React Native*
 
 - 🤝 Im trying to be *the person that an IT Company is looking for*
 
