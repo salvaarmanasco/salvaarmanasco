@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Salvador Armanasco</h1>
 <h3 align="center">A Full-Stack developer from Santa Fe, Argentina 🇦🇷</h3>
 
-- 💼 I'm working on [Individual proyect - Countries app](https://github.com/salvaarmanasco/PI-Countries-main)
+- 💼 I'm working on [Proyecto Inmobiliario](https://github.com/salvaarmanasco/Proyecto-Inmobiliario)
 
-- 📊 and [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
+- 📊 Other proyects [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku) and [Individual proyect - Countries app](https://github.com/salvaarmanasco/PI-Countries-main)
 
 - 🌱 I’m currently learning *TypeScript && React Native*
 
 - 🤝 Im trying to be *the person that an IT Company is looking for*
 
-- 💬 Ask me about *react, redux, nodejs, auth0, material ui, express, sequelize*
+- 💬 Ask me about *react, redux, nodejs, express, sequelize, materialUI, chakraUI, auth0, cloudinary...*
 
 - 📫 How to reach me *salvador.armanasco@gmail.com*
 
